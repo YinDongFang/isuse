@@ -1,0 +1,38 @@
+{
+  "name": "isuse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/isuse.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/isuse/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/isuse#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "express": "^4.19.2",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-null": "^1.0.1",
+    "is-object": "^1.0.2",
+    "is-odd": "^3.0.1",
+    "jquery": "^3.7.1",
+    "koa": "^2.15.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.0",
+    "querystring": "^0.2.1",
+    "uuid": "^9.0.1",
+    "vite": "^5.2.6",
+    "webpack": "^5.91.0",
+    "is-base": "^1.0.0",
+    "thisispro": "^1.0.0"
+  }
+}
